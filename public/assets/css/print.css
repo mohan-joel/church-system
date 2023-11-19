@@ -1,0 +1,31 @@
+.rectangle{
+	size: A4;
+	margin: auto;
+	
+}
+#print_btn{
+	display: none;
+	visibility: none;
+}
+#btn{
+	display: none;
+	visibility: none;
+}
+#btn_text_color{
+	display: none;
+	visibility: none;
+}
+#btn_font_family{
+	display: none;
+	visibility: none;
+}
+#btn_background_image{
+	display: none;
+	visibility: none;
+}
+
+#btn_go_back{
+	display:none;
+	visibility:none;
+}
+
